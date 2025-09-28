@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Singla</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="right" src="file:///Users/krishsingla/Downloads/Satoru%20Gojo%20Chroma,%20''Jujutsu%20Kaisen'',%204K%20Mobile%20Wallpaper.jpeg" alt="Satoru Gojo" width="400"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishsingla575&label=Profile%20views&color=0e75b6&style=flat" alt="krishsingla575" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrishSingla575](https://github.com/KrishSingla575)
