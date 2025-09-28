@@ -1,7 +1,7 @@
 <img width="736" height="1308" alt="image" src="https://github.com/user-attachments/assets/9c64b2b6-89d2-41a6-a772-4afb4b2f25d7" /><h1 align="center">Hi 👋, I'm Krish Singla</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" src="<img width="736" height="1308" alt="Gojo Satoru" src="https://github.com/user-attachments/assets/a2ba0a8f-0ceb-4b6e-b296-63ae18b1a29f" /></img>
+<img align="right" src="<img width="400" height="400" alt="Gojo Satoru" src="https://github.com/user-attachments/assets/a2ba0a8f-0ceb-4b6e-b296-63ae18b1a29f" /></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishsingla575&label=Profile%20views&color=0e75b6&style=flat" alt="krishsingla575" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KrishSingla575](https://github.com/KrishSingla575)
