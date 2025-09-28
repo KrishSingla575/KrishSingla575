@@ -1,7 +1,7 @@
-## Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi there  👋
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KrishSingla575/KrishSingla575.git](https://github.com/KrishSingla575/KrishSingla575.git)
+- 👨‍💻 All of my projects are available at [https://github.com/KrishSingla575](https://github.com/KrishSingla575/KrishSingla575.git)
 
 - ⚡ Fun fact **I am cool**
 
